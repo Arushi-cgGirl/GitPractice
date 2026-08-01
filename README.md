@@ -1,4 +1,5 @@
 # GithubRepo
+## This is Git assignment
 ### Tish is the simple repo | created for the understanding of git Fundamentals .
 
 
@@ -16,3 +17,5 @@
 
 
 *Somthing*
+*Just Breck*
+*Cool*
