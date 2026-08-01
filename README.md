@@ -1,6 +1,6 @@
 # GithubRepo
 ## This is Git assignment
-### Tish is the simple repo | created for the understanding of git Fundamentals .
+### This is the simple repo | created for the understanding of git Fundamentals .
 
 
 **Team Members**
@@ -16,7 +16,7 @@
 3. Java
 
 
-*Somthing*
-*Just Breck*
-*Cool*
-*Like Coding*
+*Somthing
+*Just Breck
+*Cool
+*Like Coding
